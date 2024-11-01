@@ -1,0 +1,51 @@
+/*General styling*/
+header{
+    background: rgba(243, 243, 240, 0.207);
+    background-color: ;
+    color:black;
+    display:table-header;
+    font-size: larger;
+}
+footer{
+    text-align: center;
+
+}
+h4{
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+    font-size: 30px;
+}
+body{
+    background-color: rgba(209, 242, 244, 0.478);
+    font-family: Arial, Helvetica, sans-serif
+    color: black;
+
+}
+nav{
+    display: block;
+    color: blue;
+    background-color: rgba(255, 255, 255, 0.319);
+    ;line-height: 16px;
+
+}
+/* defining two different classes*/
+.box33{
+    text-align: center;
+    margin: 150px;
+    border: 10px;
+
+
+
+}
+.box23{
+    text-align: center;
+    margin: 100px;
+    border: 10px; ;
+}
+.box44{
+    margin: 20px;
+    border: 20px;
+    border-radius: 40px;
+}
+
